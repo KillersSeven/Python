@@ -1,5 +1,7 @@
 # Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
-
+print('-=-'*30)
+print('Vamos verificar possíveis Triângulos!'.center(80))
+print('-=-'*30)
 r1 = float(input('Digite a primeira medida: '))
 r2 = float(input('Digite a segunda medida: '))
 r3 = float(input('Digite a terceira medida: '))
